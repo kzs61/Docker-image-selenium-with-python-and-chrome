@@ -32,7 +32,7 @@ $ docker volume prune -f
 ```
 $ docker login
 ```
-#### Pushing the image to docker hub:
+#### Pushing the image to docker hub
 ```
 $ docker push docker push mydockerhubrepo/selenium-py-chrome:latest
 ```
