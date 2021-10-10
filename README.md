@@ -6,7 +6,8 @@ This repo contains Dockerfile setup to create Python Selenium environment config
 ## Building the image and pushing to docker hub
 
 `$ git clone <git-repository>`
- $ cd selenium-with-python-and-chrome/`
+
+ `$ cd selenium-with-python-and-chrome`
 
   
 Build with tag
