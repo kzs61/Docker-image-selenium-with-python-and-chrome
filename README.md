@@ -13,10 +13,8 @@ $ cd selenium-with-python-and-chrome
 **Build with tag**
 ```  
 $ docker build -t <repoName>/<imageName>:<tagName> .
-```
-  
+
 *example:*  
-```
 docker build -t mydockerhubrepo/selenium-py-chrome:latest .
 ```
 
