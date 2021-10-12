@@ -38,7 +38,7 @@ $ docker push docker push mydockerhubrepo/selenium-py-chrome:latest
 ```
   
 **If you receive a permission error after a pushing attempt verify your credentials for your docker hub account. 
-Logout and login again (logout deletes the credentials saved during login** 
+Logout and login again (logout deletes the credentials saved during login)** 
 ```  
 $ docker logout
 $ docker login
