@@ -14,7 +14,7 @@ $ cd selenium-with-python-and-chrome
 ```  
 $ docker build -t <repoName>/<imageName>:<tagName> .
 
-*example:*  
+example:  
 $ docker build -t mydockerhubrepo/selenium-py-chrome:latest .
 ```
 
