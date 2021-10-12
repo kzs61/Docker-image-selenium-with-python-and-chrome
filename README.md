@@ -15,7 +15,7 @@ $ cd selenium-with-python-and-chrome
 $ docker build -t <repoName>/<imageName>:<tagName> .
 
 *example:*  
-docker build -t mydockerhubrepo/selenium-py-chrome:latest .
+$ docker build -t mydockerhubrepo/selenium-py-chrome:latest .
 ```
 
 **In case you fail with some builds, you may need to clean your local storage**
