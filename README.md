@@ -1,6 +1,6 @@
 # Selenium With Python and Chrome Driver
 
-This repo contains Dockerfile setup to create Python Selenium environment configured to work with Chrome Driver that is used in https://github.com/kzs61/petclinic-microservices
+This repo contains Dockerfile setup to create Python Selenium environment configured to work with Chrome Driver that is used in this project: https://github.com/kzs61/petclinic-microservices-aws-docker-ansible-k8s-ci-cd
 
 
 <br></br>
